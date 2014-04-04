@@ -82,7 +82,7 @@
 
 ## HTML相关问题
 
-* 文档类型的作用是什么？你知道多少种文档类型？
+* 文档类型的作用是什么？你知道多少种[文档类型](https://github.com/chlik/Browser-Capabilities/blob/master/doctype.md)？
 
 * 浏览器标准模式和怪异模式之间的区别是什么？
 
